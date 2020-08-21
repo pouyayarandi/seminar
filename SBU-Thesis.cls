@@ -662,7 +662,7 @@ Persian thesis document class in XeLaTeX for Shahid Beheshti University projects
 
 \usepackage[font=small,labelfont=bf,skip=4pt]{caption}
 \usepackage{graphicx}
-\usepackage{xepersian}
+\usepackage[extrafootnotefeatures]{xepersian}
 
 
 \setlength{\emergencystretch}{4pt} %جلوگیری از نشکستن خطوط
